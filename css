@@ -1,0 +1,148 @@
+body {
+ 
+}
+
+header {
+  background: darkblue;
+  max-width: 100%;
+  width: 100%;
+  margin:;
+  display: block;
+   background-repeat: repeat;
+   background-size: cover;
+   }
+
+   hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 100%
+   }
+
+   #smallbuttons {
+    border-radius: 12px;
+    font-size: 12px;
+    background-color: lightblue;
+    opacity: 90%;
+     -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    opacity: 10
+  }
+
+   #smallbuttons:hover {
+    background-color: grey;
+    color: white;
+    opacity: 1
+}
+
+#smallbutton:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+#David{
+  border-radius: 50%;
+}
+
+ #one { 
+  height:1000px;
+  display: flex;
+  float: right;
+ }
+
+ #cardone{
+  position: relative;
+ }
+
+ #cardtwo{
+  float: left;
+  display: flex;
+  position: left;
+  position: relative;
+  margin-right: %;
+  text-align: left;
+ }
+
+.left-bar{
+  top:50px;
+}
+
+.fa-facebook-square {
+
+}
+
+  #cardone
+  {width: 100%;height: 100%;
+  }
+
+  #search {
+  width: 400px;
+}
+
+#topbar {
+  font-size: 12px;
+  font-family: "helvetica";
+  color: white
+  ;
+
+}
+.div1 {
+    float: left;
+}
+
+.div2 {
+    float:right;
+    text-align: right;
+}
+
+#dcro {
+    width: 30px;
+  border-radius: 50%;}
+
+   #dcro:hover{
+ display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+ transform: translateY(-8px);}
+
+  #dcrow {
+    width: 50px;
+  border-radius: 50%;}
+
+  #dcrow:hover{
+ display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+ transform: translateY(-8px);}
+
+ #ad:hover {
+ display: inline-block;
+  vertical-align: middle;
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: ease-out;
+ transform: translateY(8px);}
+ }
